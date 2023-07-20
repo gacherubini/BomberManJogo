@@ -6,13 +6,10 @@ Descrição
 Este é um projeto Java que implementa o clássico jogo Bomberman. O objetivo do jogo é navegar o personagem Bomberman por um labirinto, coletar a chave, destrancar a porta e avançar para o próximo nível. O jogador deve evitar os inimigos enquanto tenta completar cada nível.
 
 Como Jogar
-Clone ou faça o download do projeto e abra-o em seu IDE Java.
-O jogo consiste em vários níveis (até um máximo de 2 níveis, conforme definido na constante MAX_LEVEL).
-Cada nível é representado por um arquivo de texto na pasta levels, seguindo a convenção de nomenclatura level_[número do nível].txt.
-Execute o método Game.main() para iniciar o jogo.
+O jogo consiste em vários níveis até um máximo de 2 níveis
 Use as setas do teclado (Cima, Baixo, Esquerda, Direita) para mover o personagem Bomberman.
-Colete a chave ('<') para destrancar a porta ('>') e avançar para o próximo nível.
-Evite os inimigos ('!') que se movem aleatoriamente pelo labirinto.
+Colete a chave para destrancar a porta e avançar para o próximo nível.
+Evite os inimigos que se movem aleatoriamente pelo labirinto.
 Se colidir com um inimigo, você perde o jogo.
 Quando completar todos os níveis, você vence o jogo.
 
