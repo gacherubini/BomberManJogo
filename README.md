@@ -30,3 +30,6 @@ Enemy: Representa os inimigos que se movem aleatoriamente pelo labirinto.
 
 Créditos
 Este projeto foi desenvolvido com base em conceitos e conhecimentos obtidos durante o aprendizado de programação em Java. O código foi adaptado a partir de exemplos e exercícios práticos.
+
+
+  <img src="/images/Captura de tela 2023-07-20 155847.png">
